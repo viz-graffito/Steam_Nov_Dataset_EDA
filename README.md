@@ -42,17 +42,20 @@ Following questions has been answered in this analysis :
 ### Proportion of reviews by the players.
 ![13](https://user-images.githubusercontent.com/90683408/145428802-4b445e32-781d-4f8c-9471-3e4d7178da53.png)
 - Exactly 59% of people choose 'Very positive'
+
 ### In which year highest number of game released?
 -![15](https://user-images.githubusercontent.com/90683408/145429834-beb6b151-7e3b-4ccc-9432-cd7792ddd1f2.png)
 ![14](https://user-images.githubusercontent.com/90683408/145429592-966d8ff7-b026-45cf-b24e-ece3e93c6626.png)
 - 18 games were released in year of 2020 which is the highest.
+
 ### As the time passes doest the current players increased?
 ![16](https://user-images.githubusercontent.com/90683408/145430700-c2483187-7cd7-4cd6-839f-ded2e4306366.png)
 - After analysing the data, there is no evidance that there is increase in the current players as the time goes, Though we can see there is sudden huge rise of current players in '2012-08-21' for the game 'Counter-Strike: Global Offensive' with the maximum current player of 736875, another surge of player after this is for the game called 'Dota 2' with the maximum current players of '649690' on the date of '2013-07-09'.
+
 ### Those games got more Current players playing also tends to get more reviews?
 ![17](https://user-images.githubusercontent.com/90683408/145431031-03009ca4-e480-4b13-81d1-ae2b075d0e45.png)
 ![18](https://user-images.githubusercontent.com/90683408/145431052-adaa6660-da47-407d-b4e9-1740e1fa7335.png)
-- We got 0.8479386124540209 of positive corelation also in the scatter plot there is a high positive corelation between between 'Total reviews' and 'Current players'.
+- We got 0.8479386124540209 of positive corelation also in the scatter plot there is a high positive corelation between between 'Total reviews' and 'Current players'.Therefore, the answer of the question is **Yes games who got more Current players playing also tends to get more reviews.**
 
 ### Those game got more total reviews also tends to get better review?
 ![19](https://user-images.githubusercontent.com/90683408/145431680-5cf7f93b-68dc-4cf1-babf-fb0918b66fbe.png)
